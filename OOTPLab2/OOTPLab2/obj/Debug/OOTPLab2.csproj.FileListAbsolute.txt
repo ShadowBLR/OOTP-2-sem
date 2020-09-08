@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\bin\Debug\OOTPLab2.exe.config
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\bin\Debug\OOTPLab2.exe
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\bin\Debug\OOTPLab2.pdb
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\obj\Debug\OOTPLab2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\obj\Debug\OOTPLab2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\obj\Debug\OOTPLab2.exe
+C:\Users\User\source\repos\OOTPLab2\OOTPLab2\obj\Debug\OOTPLab2.pdb
