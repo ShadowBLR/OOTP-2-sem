@@ -152,7 +152,7 @@ namespace OOTPLab2
                 int max = localArr.Max();
                 int min = localArr.Min();
                 int sum = 0;
-                char firstSymbol = 'a';
+                char firstSymbol = localStr[0];
                 for (int k = 0; k < localArr.Length; k++)
                     sum += localArr[k];
                 
