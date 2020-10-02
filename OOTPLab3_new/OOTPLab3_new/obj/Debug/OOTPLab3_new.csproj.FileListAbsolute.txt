@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\bin\Debug\OOTPLab3_new.exe.config
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\bin\Debug\OOTPLab3_new.exe
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\bin\Debug\OOTPLab3_new.pdb
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\obj\Debug\OOTPLab3_new.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\obj\Debug\OOTPLab3_new.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\obj\Debug\OOTPLab3_new.exe
+C:\Users\User\source\repos\OOTPLab3_new\OOTPLab3_new\obj\Debug\OOTPLab3_new.pdb
