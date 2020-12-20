@@ -1,0 +1,22 @@
+27.11.2020 2:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\katalog Created
+27.11.2020 0:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\katalog.txt Created
+26.11.2020 1:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\katalog.txt Changed
+27.10.2020 1:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\katalog.txt Changed
+27.11.2020 2:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\KIPFiles Created
+27.11.2020 1:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\KIPFiles Changed
+27.11.2020 1:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\KIPFiles Changed
+27.11.2020 2:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\KIPFiles Changed
+27.11.2020 1:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\archiv.zip Created
+27.11.2020 3:10:33
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\KIPFiles Changed
+27.11.2020 2:10:44
+File: C:\Users\User\source\repos\OOTPLab13\OOTPLab13\bin\Debug\archiv.zip Changed

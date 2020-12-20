@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\OOTPLab15\Assembly\bin\Debug\Assembly.exe.config
+C:\Users\User\source\repos\OOTPLab15\Assembly\bin\Debug\Assembly.exe
+C:\Users\User\source\repos\OOTPLab15\Assembly\bin\Debug\Assembly.pdb
+C:\Users\User\source\repos\OOTPLab15\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOTPLab15\Assembly\obj\Debug\Assembly.exe
+C:\Users\User\source\repos\OOTPLab15\Assembly\obj\Debug\Assembly.pdb

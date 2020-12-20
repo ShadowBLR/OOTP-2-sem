@@ -1,0 +1,6 @@
+Результат работы логгера
+Текущее время:30.10.2020 10:14:37
+сообщение:Индекс находился вне границ массива.
+кадр стеков вызова:   в OOTPLab07.Program.Main(String[] args) в C:\Users\User\source\repos\OOTPLab7\OOTPLab7\Program.cs:строка 32
+метод,создавший исключение:Void Main(System.String[]) в C:\Users\User\source\repos\OOTPLab7\OOTPLab7\Program.cs:строка 22
+метод,создавший исключение:Void set_YearOfPublishing(Int32)
