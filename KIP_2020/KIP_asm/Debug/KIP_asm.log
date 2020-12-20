@@ -1,0 +1,21 @@
+﻿Сборка начата 17.12.2020 15:48:11.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\source\repos\KIP_2020\KIP_asm\KIP_asm.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\KIP_asm.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling Asm.asm...
+         cmd.exe /C "C:\Users\User\AppData\Local\Temp\tmpa5b892fa6c7246439f6465112a98513e.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Asm.obj" /W3 /errorReport:prompt  /TaAsm.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\source\repos\KIP_2020\Debug\KIP_asm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\User\source\repos\KIP_2020\Debug\KIP_asm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\source\repos\KIP_2020\Debug\KIP_asm.lib" /MACHINE:X86 Debug\Asm.obj
+         KIP_asm.vcxproj -> C:\Users\User\source\repos\KIP_2020\Debug\KIP_asm.exe
+       FinalizeBuildStatus:
+         Файл "Debug\KIP_asm.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\KIP_asm.tlog\KIP_asm.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\source\repos\KIP_2020\KIP_asm\KIP_asm.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.29

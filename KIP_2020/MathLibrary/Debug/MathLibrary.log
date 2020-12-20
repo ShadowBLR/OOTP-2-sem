@@ -1,0 +1,22 @@
+﻿Сборка начата 16.12.2020 20:52:07.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\source\repos\KIP_2020\MathLibrary\MathLibrary.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\MathLibrary.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\MathLibrary.pdb" /Gd /TP /analyze- /FC /errorReport:prompt MathLibrary.cpp
+         MathLibrary.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\User\source\repos\KIP_2020\Debug\MathLibrary.lib" /NOLOGO /MACHINE:X86 Debug\MathLibrary.obj
+         MathLibrary.vcxproj -> C:\Users\User\source\repos\KIP_2020\Debug\MathLibrary.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "C:\Users\User\source\repos\KIP_2020\MathLibrary\Debug\MathLibrary.pdb" в "C:\Users\User\source\repos\KIP_2020\Debug\MathLibrary.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\MathLibrary.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\MathLibrary.tlog\MathLibrary.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\source\repos\KIP_2020\MathLibrary\MathLibrary.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.49

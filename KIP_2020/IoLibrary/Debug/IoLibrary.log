@@ -1,0 +1,27 @@
+﻿Сборка начата 15.12.2020 20:43:09.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\source\repos\KIP_2020\IoLibrary\IoLibrary.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\IoLibrary.tlog\IoLibrary.lastbuildstate" удаляется.
+       CoreClean:
+         Файл "C:\Users\User\source\repos\KIP_2020\Debug\IoLibrary.pdb" удаляется.
+         Файл "C:\Users\User\source\repos\KIP_2020\IoLibrary\Debug\IoLibrary.pdb" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\IoLibrary.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\IoLibrary.pdb" /Gd /TP /analyze- /FC /errorReport:prompt IoLibrary.cpp
+         IoLibrary.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\User\source\repos\KIP_2020\Debug\IoLibrary.lib" /NOLOGO /MACHINE:X86 Debug\IoLibrary.obj
+         IoLibrary.vcxproj -> C:\Users\User\source\repos\KIP_2020\Debug\IoLibrary.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "C:\Users\User\source\repos\KIP_2020\IoLibrary\Debug\IoLibrary.pdb" в "C:\Users\User\source\repos\KIP_2020\Debug\IoLibrary.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\IoLibrary.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\IoLibrary.tlog\IoLibrary.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\source\repos\KIP_2020\IoLibrary\IoLibrary.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:03.07

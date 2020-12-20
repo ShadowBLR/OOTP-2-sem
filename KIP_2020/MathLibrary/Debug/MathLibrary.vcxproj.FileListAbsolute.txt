@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\KIP_2020\Debug\MathLibrary.pdb
+C:\Users\User\source\repos\KIP_2020\MathLibrary\Debug\MathLibrary.pdb

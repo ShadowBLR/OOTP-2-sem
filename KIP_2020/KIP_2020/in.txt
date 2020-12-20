@@ -1,0 +1,30 @@
+#library <MathLibrary>
+#library <IoLibrary>
+byte activity  dev(byte x,byte y)
+{
+	new byte z;
+	z=x+y;
+	give z;
+}
+start
+{
+   new byte b;
+   new byte x;
+   new byte y;
+   new string str;
+   y=$804;
+   
+   x=$842*$85+min(x,$82544);
+   output x;
+   x=dev(x,y);
+   LOOP(b)
+   {
+		b=$2001;
+		output b;
+   }
+   str="TEXT! 111-12/2";
+   output str;
+   
+   b=abs(b);
+   output b;
+}	
